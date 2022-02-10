@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Halo semua!👋 
+Perkenalkan nama saya **Ardlyansyah**.\
+Saya seorang **mahasiswa** di [UPNVY](https://www.upnyk.ac.id/).
 <!--
 **ardlyansyahh/ardlyansyahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
