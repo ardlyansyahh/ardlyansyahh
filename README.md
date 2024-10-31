@@ -1,6 +1,6 @@
 # Halo semua!👋 
 Perkenalkan nama saya **Ardlyansyah**.\
-Saya seorang **mahasiswa** di [UPNVY](https://www.upnyk.ac.id/).
+Saya seorang **freshgraduate** dari Informatika [UPNVY](https://www.upnyk.ac.id/).
 
 <p align="left">
 <a href="https://github.com/ardlyansyahh">
